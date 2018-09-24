@@ -1,4 +1,5 @@
-# LSTM  Autor dos codigos: https://github.com/kmsravindra
-Usando LSTMs para prever séries temporais
-Link utilizado: https://towardsdatascience.com/using-lstms-to-forecast-time-series-4ab688386b1f
+# Deep LSTM Neural Network
+https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks
+
+Autor do código: https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction
 
